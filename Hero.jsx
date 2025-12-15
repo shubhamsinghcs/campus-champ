@@ -10,7 +10,7 @@ const Hero = () => {
     <div className="flex flex-col items-center justify-center min-h-[70vh] text-center px-4 py-8">
       <div className="max-w-4xl w-full">
         <h1 className="text-4xl md:text-5xl font-bold mb-4 text-gray-800">
-          Welcome to GDGs On Campus IGC
+          Welcome to Google Developer Groups on Campus IGC
         </h1>
         <p className="text-lg md:text-xl text-gray-600 mb-6">
           Practice your skills with <span className="text-blue-600 font-semibold">Campus Champs</span>
